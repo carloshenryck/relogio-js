@@ -4,7 +4,7 @@ Este relógio foi feito durante o curso de Js do [Curso em vídeo](https://www.y
  Utilizando a mesma lógica, refiz o layout
  ## Esse foi o resultado final:
  ![enter image description here](http://g.recordit.co/ElNBjlpuQw.gif)
- [Acesse-o aqui](dsfs).
+ [Acesse-o aqui](https://carloshenryck.github.io/relogio-js/).
  
  ### Você pode alterar o background acessando o arquivo JS dessa maneira: 
  
