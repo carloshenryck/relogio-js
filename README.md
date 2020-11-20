@@ -4,5 +4,6 @@ Este relógio foi feito durante o curso de Js do [Curso em vídeo](https://www.y
  ## Esse foi o resultado final:
  [Acesse-o aqui](dsfs).
  
- Você pode alterar o background acessando o arquivo JS dessa maneira: 
+ Você pode alterar o background acessando o arquivo JS dessa maneira:
+ 
  ![enter image description here](http://g.recordit.co/cB48T6BHcG.gif)
